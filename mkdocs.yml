@@ -5,6 +5,8 @@ nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - Sessions: sessions.md
+  - Grasshopper: grasshopper.md
+
 
 theme:
   font:
