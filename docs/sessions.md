@@ -14,8 +14,10 @@ Plugins in Rhino and Revit read from and sync with sessions **in both directions
 
 The current session type focuses on **plan generation** through an interactive interface.
 
-Within a session, architects can generate layouts for **any building typology** based on a **custom physical program**. These layouts respond to both design intent and spatial constraints synced from CAD.
+Within a session, architects can generate layouts for **any building typology** based on a **custom physical program**. These layouts respond to both design intent and spatial constraints synced from CAD. 
 
+Check out a short video on how to generate a new session:
+**[Generating a new session](https://youtube)**.
 ---
 
 ## Physical Programs
@@ -27,6 +29,9 @@ Termite provides a wide category of predefined spaces that you can:
 - Combine into your own templates
 - Customize to fit specific project needs
 
+Check out a short video on using template spaces:
+**[Using template spaces](https://youtube)**.
+
 Each space type can include common regulations such as:
 - Minimum and maximum area
 - Daylight requirements
@@ -35,6 +40,8 @@ Each space type can include common regulations such as:
 
 You are always free to **adjust or override these values** based on your own design preferences and project goals.
 
+Check out a short video on how to add new spaces:
+**[Adding new spaces](https://youtube)**.
 ---
 
 ## Reusable Templates
@@ -46,6 +53,8 @@ Physical program templates:
 
 This makes it easy to maintain design standards while still allowing flexibility in each new session.
 
+Check out a short video on how to save your added spaces:
+**[Saving your spaces](https://youtube)**.
 ---
 
 ## How Sessions Work with Plugins
@@ -56,4 +65,9 @@ This makes it easy to maintain design standards while still allowing flexibility
 
 A session becomes the **single source of truth** for your project during early design.
 
+Check out a short video on how to sync your session with Rhino:
+**[Syncing with Rhino](https://youtube)**.
+
+Check out a short video on how to sync your session with Revit:
+**[Syncing with Revit](https://youtube)**.
 ---
