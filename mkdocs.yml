@@ -2,10 +2,25 @@ site_name: Termite Docs
 site_url: https://mohammad-h93.github.io/docs-test/
 
 nav:
-  - Home: index.md
-  - Getting Started: getting-started.md
-  - Sessions: sessions.md
-  - Grasshopper: grasshopper.md
+  - Welcome to Termite: welcome.md
+  - Creating a Session: sessions.md
+  - Integrating Sessions with CAD Software:
+      - Rhino:
+          - Sync: 'sync-rhino.md'
+          - Generate: 'generate-rhino.md'
+          - Export: 'export-rhino.md'
+      - Revit:
+          - Sync: 'sync-revit.md'
+          - Generate: 'generate-revit.md'
+          - Export: 'export-revit.md'
+      - Archicad:
+          - Sync: 'sync-archicad.md'
+          - Generate: 'generate-archicad.md'
+          - Export: 'export-archicad.md'
+      - Grasshopper:
+          - Sync: 'sync-grasshopper.md'
+          - Generate: 'generate-grasshopper.md'
+          - Export: 'export-grasshopper.md'
 
 
 theme:
@@ -31,3 +46,6 @@ markdown_extensions:
   - toc:
       permalink: true
       toc_depth: 3
+
+extra_css:
+  - stylesheets/extra.css

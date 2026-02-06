@@ -1,0 +1,53 @@
+/* Main section headings */
+.md-typeset h2 {
+  color: #3f51b5;        /* indigo */
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 0.3em;
+}
+
+/* Sub-section headings */
+.md-typeset h3 {
+  color: #5c6bc0;        /* lighter indigo */
+  margin-top: 1.6em;
+}
+
+/* Sub-sub-section headings */
+.md-typeset h4 {
+  color: #616161;        /* neutral gray */
+  font-weight: 600;
+}
+
+
+/* Top-level nav sections */
+.md-nav__item--section > .md-nav__link {
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.md-nav__item--section {
+  margin-top: 0.8em;
+  padding-top: 0.4em;
+  border-top: 1px solid rgba(0,0,0,0.1);
+}
+
+
+.md-nav__link--active {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+
+
+/* Deeper nested items */
+.md-nav__item .md-nav__item .md-nav__item > .md-nav__link {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.8rem;
+}
+
+
+/* First level inside a section */
+.md-nav__item .md-nav__item > .md-nav__link {
+  color: var(--md-default-fg-color);
+  font-weight: 500;
+  font-size: 0.85rem;
+}
