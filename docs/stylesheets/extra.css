@@ -1,53 +1,63 @@
-/* Main section headings */
+/* Base font */
+:root {
+  --md-text-font-family: "Inter", system-ui, sans-serif;
+}
+
+/* Body text */
+.md-typeset {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #121212;
+}
+
+/* Headings */
+.md-typeset h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
 .md-typeset h2 {
-  color: #3f51b5;        /* indigo */
-  border-bottom: 2px solid #e0e0e0;
-  padding-bottom: 0.3em;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #2E7D32;
 }
 
-/* Sub-section headings */
 .md-typeset h3 {
-  color: #5c6bc0;        /* lighter indigo */
-  margin-top: 1.6em;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #121212;
 }
 
-/* Sub-sub-section headings */
 .md-typeset h4 {
-  color: #616161;        /* neutral gray */
+  font-size: 1rem;
+  font-weight: 600;
+  color: #757575;
+}
+
+/* Emphasis */
+.md-typeset strong {
   font-weight: 600;
 }
 
+.md-typeset em {
+  font-style: italic;
+}
 
-/* Top-level nav sections */
+
+/* Main nav sections */
 .md-nav__item--section > .md-nav__link {
-  color: var(--md-primary-fg-color);
-  font-weight: 700;
-  font-size: 0.95rem;
+  color: #2E7D32;
+  font-weight: 600;
 }
 
-.md-nav__item--section {
-  margin-top: 0.8em;
-  padding-top: 0.4em;
-  border-top: 1px solid rgba(0,0,0,0.1);
-}
-
-
-.md-nav__link--active {
-  color: var(--md-accent-fg-color);
-  font-weight: 700;
-}
-
-
-/* Deeper nested items */
-.md-nav__item .md-nav__item .md-nav__item > .md-nav__link {
-  color: var(--md-default-fg-color--light);
-  font-size: 0.8rem;
-}
-
-
-/* First level inside a section */
+/* Sub nav items */
 .md-nav__item .md-nav__item > .md-nav__link {
-  color: var(--md-default-fg-color);
-  font-weight: 500;
   font-size: 0.85rem;
+  font-weight: 500;
+}
+
+/* Active page */
+.md-nav__link--active {
+  color: #66BB6A;
+  font-weight: 600;
 }
