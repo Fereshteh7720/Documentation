@@ -13,14 +13,15 @@ nav:
           - Sync: 'sync-revit.md'
           - Generate: 'generate-revit.md'
           - Export: 'export-revit.md'
-      - Archicad:
-          - Sync: 'sync-archicad.md'
-          - Generate: 'generate-archicad.md'
-          - Export: 'export-archicad.md'
       - Grasshopper:
           - Sync: 'sync-grasshopper.md'
           - Generate: 'generate-grasshopper.md'
           - Export: 'export-grasshopper.md'
+      - Archicad:
+          - Sync: 'sync-archicad.md'
+          - Generate: 'generate-archicad.md'
+          - Export: 'export-archicad.md'
+
 
 
 theme:
