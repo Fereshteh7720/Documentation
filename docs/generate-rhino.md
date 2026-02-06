@@ -1,4 +1,4 @@
-## How Sessions Get Inputs in Rhino
+## Setting Inputs in Rhino
 
 - Sessions get inputs from the **Rhino**
 - These inputs include a **boundary curve, preferred locations for spaces, fixed spaces**
