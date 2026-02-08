@@ -10,7 +10,7 @@ Plugins in Rhino and Revit read from and sync with sessions **in both directions
 
 ---
 
-## Plan Generation Session
+## Generate Your First Session
 
 The current session type focuses on **plan generation** through an interactive interface.
 
@@ -37,7 +37,15 @@ Termite provides a wide category of predefined spaces that you can:
 - Customize to fit specific project needs
 
 Check out a short video on using template spaces:
-**[Using template spaces](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/yjf8HKbXNx4"
+  title="Physical program using template spaces"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+
 
 Each space type can include common regulations such as:
 - Minimum and maximum area
@@ -48,7 +56,14 @@ Each space type can include common regulations such as:
 You are always free to **adjust or override these values** based on your own design preferences and project goals.
 
 Check out a short video on how to add new spaces:
-**[Adding new spaces](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/h9KXJqi0qmM"
+  title="Physical program by adding new spaces"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 ---
 
 ## Reusable Templates
@@ -61,7 +76,20 @@ Physical program templates:
 This makes it easy to maintain design standards while still allowing flexibility in each new session.
 
 Check out a short video on how to save your added spaces:
-**[Saving your spaces](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/vd50bH5zb0g"
+  title="Saving your spaces"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 
 Check out a short video on how to reuse your saved spaces:
-**[Uploading your saved spaces](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/LYCuSw7U2D4"
+  title="Uploading your saved spaces"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
