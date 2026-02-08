@@ -93,3 +93,5 @@ Check out a short video on how to reuse your saved spaces:
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+Ready to start generating your layout? [Integrate Termite Dashboard with CAD software](integrate-cad.md)

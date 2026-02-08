@@ -5,7 +5,7 @@ nav:
   - Welcome to Termite: welcome.md
   - Create a Session: sessions.md
   - Integrate Sessions with CAD Software:
-      - 'integrate-cad.md'
+      - Integrate Termite Dashboard with CAD Software: 'integrate-cad.md'
       - Rhino:
           - Sync: 'sync-rhino.md'
           - Generate: 'generate-rhino.md'
