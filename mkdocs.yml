@@ -21,7 +21,7 @@ nav:
   - Export:
       - dwg: 'export-dwg.md'
       - BIM: 'export-bim.md'
-  - Frequently asked questions:
+  - Frequently asked questions: 'frequent-questions.md'
 
 
 theme:
