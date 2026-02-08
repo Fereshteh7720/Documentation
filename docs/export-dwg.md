@@ -3,5 +3,5 @@
 - Navigate to the **Design** tab
 - Click on **generate layout**
 
-Check out a short video on how to **generate a layout**:
-**[Generating a layout synced to Rhino inputs](https://youtube)**.
+Check out a short video on how to **export as dwg**:
+**[Exporting a layout as a dwg file](https://youtube)**.
