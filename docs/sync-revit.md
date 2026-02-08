@@ -9,4 +9,5 @@ A session becomes the **single source of truth** for your project during early d
 Check out a short video on how to sync your session with Revit:
 **[Syncing with Revit](https://youtube)**.
 
+
 [Next Step: Generate](generate-revit.md)

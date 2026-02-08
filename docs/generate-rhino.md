@@ -29,13 +29,14 @@ Check out a short video on how to **update a layout**:
 **[Updating the Rhino inputs & regenerate a layout](https://youtube)**.
 
 ## Adding/Trimming Walls
-- Open the **Drafting** tab
-- Turn on the **walls**
+- Open the **Modification** tab
+- Navigate to  **Drafting**
+- Turn on **walls**
 - Click on **Start drawing**
 - Select parts of the wall to be **trimmed**
 - Set the **Trim Size**
 
-Check out a short video on how to **update a layout**:
+Check out a short video on how to **add or trim walls**:
 **[Adding or trimming walls to the Termite Dashboard](https://youtube)**.
 
 ## Adding/Removing Doors
@@ -43,6 +44,8 @@ Check out a short video on how to **update a layout**:
 - Navigate to  **Doors**
 - Click on **Start drawing**
 - Set the **Door Size**
+
+Check out a short video on how to **add or remove doors**:
 **[Adding or Removing doors to the Termite Dashboard](https://youtube)**.
 
 ## Adding/Removing Windows
@@ -50,6 +53,8 @@ Check out a short video on how to **update a layout**:
 - Navigate to  **Windows**
 - Click on **Start drawing**
 - Set the **Door Size**
+
+Check out a short video on how to **add or remove windows**:
 **[Adding or Removing windows to the Termite Dashboard](https://youtube)**.
 
 Satisfied with the design?
