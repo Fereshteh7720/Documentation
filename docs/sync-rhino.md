@@ -10,5 +10,5 @@ Check out a short video on how to sync your session with Rhino:
 **[Syncing with Rhino](https://youtube)**.
 
 
-
+Already synced?
 [Next Step: Generate](generate-rhino.md)

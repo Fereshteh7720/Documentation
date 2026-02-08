@@ -1,4 +1,4 @@
-# What Is a Session?
+# What is a Session?
 
 ## Sessions and the Design Process
 
@@ -17,7 +17,14 @@ The current session type focuses on **plan generation** through an interactive i
 Within a session, architects can generate layouts for **any building typology** based on a **custom physical program**. These layouts respond to both design intent and spatial constraints synced from CAD. 
 
 Check out a short video on how to generate a new session:
-**[Generating a new session](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/IP-Lafkzc_4"
+  title="Generating a new session"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
 ---
 
 ## Physical Programs
@@ -55,3 +62,6 @@ This makes it easy to maintain design standards while still allowing flexibility
 
 Check out a short video on how to save your added spaces:
 **[Saving your spaces](https://youtube)**.
+
+Check out a short video on how to reuse your saved spaces:
+**[Uploading your saved spaces](https://youtube)**.

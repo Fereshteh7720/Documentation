@@ -59,4 +59,5 @@ Check out a short video on how to **add or remove windows**:
 
 Satisfied with the design?
 [Export DWG](export-dwg.md)
+or
 [Export BIM](export-bim.md)
