@@ -62,13 +62,12 @@ Check out a short video on how to **add or trim walls** in the Termite dashboard
 Check out a short video on how to **add or remove doors** in the Termite dashboard:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
-  title="Generating a layout in Termite- Adding or trimming doors"
+  src="https://www.youtube-nocookie.com/embed/pIKoukzId5k"
+  title="Generating a layout in Termite- Adding doors"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-
 
 
 ## Adding/Removing Windows
@@ -81,11 +80,12 @@ Check out a short video on how to **add or remove windows** in the Termite dashb
 
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/"
-  title="Generating a layout in Termite- Adding or trimming windows"
+  title="Generating a layout in Termite- Adding windows"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
 
 
 Satisfied with the design?
