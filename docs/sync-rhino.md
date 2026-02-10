@@ -6,10 +6,49 @@
 
 A session becomes the **single source of truth** for your project during early design.
 
-Check out a short video on how to sync your session with Rhino:
+Check out a short video on how to sync a Termite session with Rhino:
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/5_zqH0HqEhQ"
+  src="https://www.youtube-nocookie.com/embed/0H7mBmZTNBQ"
   title="Syncing Termite with Rhino"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+
+## Setting Inputs in Rhino
+
+- Sessions get inputs from the **Rhino**
+- These inputs include a **boundary curve, preferred locations for spaces, fixed spaces**
+
+Check out a short video on how to insert a **boundary** in Rhino and sync it with a Termite session:
+
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/xISQdvr51l4"
+  title="Inserting a boundary in Rhino and syncing with a Termite session"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+Make sure that the selected boundary is a **closed curve**.
+
+Check out a short video on how to insert **preferred locations for spaces** in Rhino and sync it with a Termite session:
+**[](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/Ir6c_FLoe30"
+  title="Inserting preferred locations for spaces in Rhino and syncing with a Termite session"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
+
+
+Check out a short video on how to insert **fixed spaces** in Rhino and sync it with a Termite session:
+**[](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/01cikyW98UM"
+  title="Inserting fixed spaces in Rhino and syncing with a session"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>

@@ -1,16 +1,4 @@
-## Setting Inputs in Rhino
 
-- Sessions get inputs from the **Rhino**
-- These inputs include a **boundary curve, preferred locations for spaces, fixed spaces**
-
-Check out a short video on how to insert a **boundary** in Rhino and sync it with a session:
-**[Inserting a boundary in Rhino and syncing with a session](https://youtube)**.
-
-Check out a short video on how to insert **preferred locations for spaces** in Rhino and sync it with a session:
-**[Inserting preferred locations for spaces in Rhino and syncing with a session](https://youtube)**.
-
-Check out a short video on how to insert **fixed spaces** in Rhino and sync it with a session:
-**[Inserting fixed spaces in Rhino and syncing with a session](https://youtube)**.
 
 ## Generating Layouts
 - Open the **Termite Dashboard**
