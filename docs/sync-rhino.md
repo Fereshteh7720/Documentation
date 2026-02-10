@@ -7,7 +7,13 @@
 A session becomes the **single source of truth** for your project during early design.
 
 Check out a short video on how to sync your session with Rhino:
-**[Syncing with Rhino](https://youtube)**.
+<iframe width="560" height="315"
+  src="https://www.youtube-nocookie.com/embed/5_zqH0HqEhQ"
+  title="Syncing Termite with Rhino"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>
 
 
 Already synced?
