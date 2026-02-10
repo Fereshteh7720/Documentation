@@ -34,7 +34,7 @@ Check out a short video on how to insert a **boundary** in Rhino and sync it wit
 Make sure that the selected boundary is a **closed curve**.
 
 Check out a short video on how to insert **preferred locations for spaces** in Rhino and sync it with a Termite session:
-**[](https://youtube)**.
+
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/Ir6c_FLoe30"
   title="Inserting preferred locations for spaces in Rhino and syncing with a Termite session"
@@ -45,7 +45,7 @@ Check out a short video on how to insert **preferred locations for spaces** in R
 
 
 Check out a short video on how to insert **fixed spaces** in Rhino and sync it with a Termite session:
-**[](https://youtube)**.
+
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/01cikyW98UM"
   title="Inserting fixed spaces in Rhino and syncing with a session"
