@@ -19,7 +19,8 @@ nav:
           - Sync: 'sync-archicad.md'
           - Generate: 'generate-archicad.md'
   - Export:
-      - dwg: 'export-dwg.md'
+      - Export the generated layout: 'export-cad.md'
+      - DWG: 'export-dwg.md'
       - BIM: 'export-bim.md'
   - Frequently asked questions: 'frequent-questions.md'
 
