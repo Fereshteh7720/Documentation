@@ -1,4 +1,4 @@
-## Exporting Layouts as BIM models
+# Exporting Layouts as BIM models
 - Open the **Termite Dashboard**
 - Navigate to the **Export** tab
 - Click on **Build BIM**

@@ -1,4 +1,4 @@
-## Exporting Layouts as dwg files
+# Exporting Layouts as DWG files
 - Open the **Termite Dashboard**
 - Navigate to the **Export** tab
 - Under the Export DWG, click on **Download File**

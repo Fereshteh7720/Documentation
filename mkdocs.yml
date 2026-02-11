@@ -26,9 +26,9 @@ nav:
           - Sync: Integrate Sessions with CAD Software/archicad/sync-index.md
           - Generate: Integrate Sessions with CAD Software/archicad/generate-index.md
   - Export:
-      - Export the generated layout: 'export-cad.md'
-      - DWG: 'export-dwg.md'
-      - BIM: 'export-bim.md'
+      - Export the generated layout: export/index.md
+      - DWG: export/dwg-index.md
+      - BIM: export/bim-index.md
   - Frequently asked questions: 'frequent-questions.md'
 
 

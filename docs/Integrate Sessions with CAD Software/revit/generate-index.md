@@ -60,6 +60,6 @@ Check out a short video on how to **add or remove windows**:
 **[Adding or Removing windows to the Termite Dashboard](https://youtube)**.
 
 Satisfied with the design?
-[Export DWG](../../export-dwg.md)
+[Export DWG](../../export/dwg-index)
 or
-[Export BIM](../../export-bim.md)
+[Export BIM](../../export/bim-index)
