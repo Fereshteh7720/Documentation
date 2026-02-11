@@ -1,3 +1,4 @@
+# Sync a Termite Session with Rhino
 ## How Sessions Work with Plugins
 
 - Sessions are **created and managed** in the Termite Dashboard
@@ -56,4 +57,4 @@ Check out a short video on how to insert **fixed spaces** in Rhino and sync it w
 
 
 Already synced?
-[Next Step: Generate](generate-rhino.md)
+[Next Step: Generate](generate-index)

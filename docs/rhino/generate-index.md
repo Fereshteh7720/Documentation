@@ -1,4 +1,4 @@
-
+# Generate a layout from Rhino synced with a Termite session
 
 ## Generating Layouts
 - Open the **Termite Dashboard**
@@ -88,6 +88,6 @@ Check out a short video on how to **add or remove windows** in the Termite dashb
 
 
 Satisfied with the design?
-[Export DWG](export-dwg.md)
+[Export DWG](../export-dwg.md)
 or
-[Export BIM](export-bim.md)
+[Export BIM](../export-bim.md)

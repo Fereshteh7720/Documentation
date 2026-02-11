@@ -7,8 +7,9 @@ nav:
   - Integrate Sessions with CAD Software:
       - Integrate Termite Dashboard with CAD Software: 'integrate-cad.md'
       - Rhino:
-          - Sync: 'sync-rhino.md'
-          - Generate: 'generate-rhino.md'
+          - Integrate Termite with Rhino: rhino/index.md
+          - Sync: rhino/sync-index.md
+          - Generate: rhino/generate-index.md
 
       - Grasshopper:
           - Sync: 'sync-grasshopper.md'
@@ -33,6 +34,9 @@ theme:
     text: Inter
     code: JetBrains Mono
   name: material
+  features:
+    - navigation.indexes
+
   palette:
     - scheme: default
       primary: green
