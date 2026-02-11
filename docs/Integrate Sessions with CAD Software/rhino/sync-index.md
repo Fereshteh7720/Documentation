@@ -57,4 +57,4 @@ Check out a short video on how to insert **fixed spaces** in Rhino and sync it w
 
 
 Already synced?
-[Next Step: Generate](generate-index)
+[Next Step: Generate](generate-index.md)
