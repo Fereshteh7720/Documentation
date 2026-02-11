@@ -9,12 +9,15 @@ nav:
       - Rhino:
           - Sync: 'sync-rhino.md'
           - Generate: 'generate-rhino.md'
-      - Revit:
-          - Sync: 'sync-revit.md'
-          - Generate: 'generate-revit.md'
+
       - Grasshopper:
           - Sync: 'sync-grasshopper.md'
           - Generate: 'generate-grasshopper.md'
+
+      - Revit:
+          - Sync: 'sync-revit.md'
+          - Generate: 'generate-revit.md'
+
       - Archicad:
           - Sync: 'sync-archicad.md'
           - Generate: 'generate-archicad.md'

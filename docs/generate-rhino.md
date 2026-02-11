@@ -5,7 +5,7 @@
 - Navigate to the **Design** tab
 - Click on **generate layout**
 
-Check out a short video on how to **generate a layout**:
+Check out a short video on how to **generate a layout** in Rhino synced with a Termite session:
 
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/F2N1xksY2AQ"
@@ -21,7 +21,7 @@ Check out a short video on how to **generate a layout**:
 - Submit the **changes**
 - Click on **generate layout**
 
-Check out a short video on how to **update a layout**:
+Check out a short video on how to **update a layout** in Rhino synced with a Termite session:
 
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/JotVRxawvhg"
@@ -79,13 +79,12 @@ Check out a short video on how to **add or remove doors** in the Termite dashboa
 Check out a short video on how to **add or remove windows** in the Termite dashboard:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
+  src="https://www.youtube-nocookie.com/embed/UecBwAQoSCs"
   title="Generating a layout in Termite- Adding windows"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
-
 
 
 Satisfied with the design?
