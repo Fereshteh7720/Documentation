@@ -88,6 +88,6 @@ Check out a short video on how to **add or remove windows** in the Termite dashb
 
 
 Satisfied with the design?
-[Export DWG](../../export/dwg-index)
+[Export DWG](dwg-index.md)
 or
-[Export BIM](../../export/bim-index)
+[Export BIM](export/bim-index)
