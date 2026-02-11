@@ -1,3 +1,4 @@
+# Sync a Termite Session with Grasshopper
 ## How Sessions Work with Plugins
 
 - Sessions are **created and managed** in the Termite Dashboard

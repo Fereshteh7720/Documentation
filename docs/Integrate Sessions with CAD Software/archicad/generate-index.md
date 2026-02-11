@@ -1,0 +1,1 @@
+# Generate a layout from Archicad synced with a Termite session

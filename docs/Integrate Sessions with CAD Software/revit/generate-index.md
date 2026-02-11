@@ -1,3 +1,4 @@
+# Generate a layout from Revit synced with a Termite session
 ## Setting Inputs in Revit
 
 - Sessions get inputs from the **Revit**

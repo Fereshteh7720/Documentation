@@ -1,4 +1,4 @@
-
+# Generate a layout from Grasshopper synced with a Termite session
 
 ## Generating Layouts in Grasshopper synced with a Termite session
 
