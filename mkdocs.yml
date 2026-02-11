@@ -4,12 +4,12 @@ site_url: https://mohammad-h93.github.io/docs-test/
 nav:
   - Welcome to Termite: welcome.md
   - Create a Session: sessions.md
-  - Integrate Sessions with CAD Software:
-      - Integrate Termite Dashboard with CAD Software: 'integrate-cad.md'
+  - Integrate with CAD:
+      - Integrate Sessions with CAD Software: integrate/index.md
       - Rhino:
-          - Integrate Termite with Rhino: rhino/index.md
-          - Sync: rhino/sync-index.md
-          - Generate: rhino/generate-index.md
+          - Integrate Termite with Rhino: integrate/rhino/index.md
+          - Sync: integrate/rhino/sync-index.md
+          - Generate: integrate/rhino/generate-index.md
 
       - Grasshopper:
           - Sync: 'sync-grasshopper.md'
