@@ -12,8 +12,9 @@ nav:
           - Generate: integrate/rhino/generate-index.md
 
       - Grasshopper:
-          - Sync: 'sync-grasshopper.md'
-          - Generate: 'generate-grasshopper.md'
+          - Integrate Termite with Grasshopper: integrate/grasshopper/index.md
+          - Sync: integrate/grasshopper/sync-index.md
+          - Generate: integrate/grasshopper/generate-index.md
 
       - Revit:
           - Sync: 'sync-revit.md'
