@@ -30,6 +30,10 @@ Check out a short video on how to **generate a layout**:
 Check out a short video on how to **update a layout**:
 **[Updating the Rhino inputs & regenerate a layout](https://youtube)**.
 
+## Next Steps in Generating a Layout
+The submitted requests and the layouts are sent back to **Termite dashboard**. The next steps in generating layouts including **adding walls**, **adding doors**, and **adding windows** should be completed through the **Termite dashboard** by selecting each of the generated layouts.
+
+
 ## Adding/Trimming Walls
 - Open the **Modification** tab
 - Navigate to  **Drafting**
