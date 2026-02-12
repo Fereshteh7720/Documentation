@@ -31,6 +31,8 @@ Check out a short video on how to **update a layout** in Rhino synced with a Ter
   allowfullscreen>
 </iframe>
 
+## Next Steps in Generating a Layout
+The next steps in generating layouts including **adding walls**, **adding doors**, and **adding windows** should be completed through the **Termite dashboard** by selecting each of the generated layouts.
 
 
 ## Adding/Trimming Walls
@@ -88,6 +90,6 @@ Check out a short video on how to **add or remove windows** in the Termite dashb
 
 
 Satisfied with the design?
-[Export DWG](dwg-index.md)
+[Export DWG](../../export/dwg-index.md)
 or
-[Export BIM](export/bim-index)
+[Export BIM](../../export/bim-index.md)

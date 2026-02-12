@@ -94,4 +94,4 @@ Check out a short video on how to reuse your saved spaces:
   allowfullscreen>
 </iframe>
 
-Ready to start generating your layout? [Integrate Termite Dashboard with CAD software](integrate-cad.md)
+Ready to start generating your layout? [Integrate Termite Dashboard with CAD software](Integrate Sessions with CAD Software/index.md)
