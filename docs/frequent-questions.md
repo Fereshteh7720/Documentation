@@ -8,13 +8,13 @@
 ## Sessions
 
 ??? question "What is a session?"
-    A session works as a folder where you can save your list of spaces and areas, sync Termite with a CAD software, and generate variations of layouts.
+    A session works as a directory where you can save your list of spaces and areas, sync Termite with a CAD software, and generate variations of layouts. It acts as a new chat for ChatGPT.
 
 ??? question "How can I add a session?"
     Open the Termite dashboard and click on **start a new session**. You can define a name for your sessions and click on **create**. Follow instructions on [starting a session](sessions.md/#generate-your-first-session).
 
 ??? question "How many sessions do I need to have?"
-    It depends on your preference. You can work on different projects in one session or different sessions. It depend how you prefer to group your work into folders.
+    It depends on your preference. You can work on different projects in one session or different sessions. It depends on how you prefer to have a single directory or group your work into directories. This is similar if you prefer to have all your questions to ChatGPT is one chat or in different chats. Both ways you will have access to all your data.
 
 ??? question "How can I switch between the sessions?"
     On the left side of the Termite dashboard, you can find a **Navigation** tab. Under the **History** you can see a list of your created sessions and can click on each session to work on.
@@ -55,21 +55,27 @@
 ??? question "Can I add walls, doors, windows, and balcony railings to a layout?"
     Yes, through the Termite dashboard. Select a generated layout and on the left tab navigate to **Drafting**. You can add walls, doors, windows, and balcony railings there. Follow instructions for [Rhino](Integrate Sessions with CAD Software/rhino/generate-index.md/#next-steps-in-generating-a-layout), [Grasshopper](Integrate Sessions with CAD Software/grasshopper/generate-index.md/#next-steps-in-generating-a-layout), [Revit](Integrate Sessions with CAD Software/revit/generate-index.md/#next-steps-in-generating-a-layout), and [Archicad](Integrate Sessions with CAD Software/archicad/generate-index.md/##next-steps-in-generating-a-layout)
 
+??? question "Can I change the size of the wall trim, doors, and windows?"
+    Yes, in the drafting tan under each of the sections for **walls**, **doors**, **windows** you can change the size. 
 
+??? question "Why I cannot add more wall trims, doors, and windows?"
+    This happens when you have already confirmed your drawing. Simply press **shift** and you will be able to add more drawing as **wall trims**, **doors**, **windows**, and **balcony railings**.
+
+??? question "How can I delete some wall trims, doors, windows, and balcony railings?"
+    Simply select the **wall trims**, **doors**, **windows**, and **balcony railings** that you want to delete and press **delete button** on the keyboard.
 
 ---
 ## Export
 
 ??? question "How do I export to DWG?"
-    See the [DWG export guide](../../export/dwg-index.md).
+    See the [DWG export guide](export/dwg-index.md).
 
 ??? question "How do I export to BIM?"
-    See the [BIM export guide](../../export/bim-index.md).
+    See the [BIM export guide](export/bim-index.md).
 
-??? question "Q?"
-    A …
+??? question "Can I design with Rhino and sync with Termite and later export as BIM model?"
+    Yes, exporting is not dependent on the original CAD software. By using each of the CAD software you can export as either DWG file or BIM model. [Follow instructions here](export/index.md)
 
-??? question "Q?"
-    A …
+
 
 
