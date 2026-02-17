@@ -16,7 +16,7 @@ Check out a short video on how to **generate a layout** in Grasshopper synced wi
 </iframe>
 
 
-
+---
 ## Exploring Design Variations
 - Update the **Grasshopper inputs**
 - Press **submit**
@@ -31,11 +31,12 @@ Check out a short video on how to **update a layout** in Grasshopper synced with
   allowfullscreen>
 </iframe>
 
+---
 ## Next Steps in Generating a Layout
 The submitted requests and the layouts are sent back to **Termite dashboard**. The next steps in generating layouts including **adding walls**, **adding doors**, and **adding windows** should be completed through the **Termite dashboard** by selecting each of the generated layouts.
 
 
-## Adding/Trimming Walls
+### Adding/Trimming Walls
 - Open **Termite dashboard**
 - Open the **Modification** tab
 - Navigate to  **Drafting**
@@ -56,7 +57,7 @@ Check out a short video on how to **add or trim walls** in the Termite dashboard
 
 
 
-## Adding/Removing Doors
+### Adding/Removing Doors
 - - Open **Termite dashboard**
 - Open the **Drafting** tab
 - Navigate to  **Doors**
@@ -74,7 +75,7 @@ Check out a short video on how to **add or remove doors** in the Termite dashboa
 </iframe>
 
 
-## Adding/Removing Windows
+### Adding/Removing Windows
 - - Open **Termite dashboard**
 - Open the **Drafting** tab
 - Navigate to  **Windows**

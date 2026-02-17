@@ -24,6 +24,11 @@ By refreshing, you can see the last generated layout of the session.
 - Sessions get inputs from the **Grasshopper**
 - These inputs include a **boundary curve, preferred locations for spaces, fixed spaces**
 
+---
+### Defining Boundary Curves
+To start with a layout generation, you need to define a boundary.
+
+
 Check out a short video on how to insert a **boundary** in Grasshopper and sync it with a Termite session:
 
 <iframe width="560" height="315"
@@ -38,6 +43,11 @@ Check out a short video on how to insert a **boundary** in Grasshopper and sync 
 
 Make sure that the selected boundary is a **closed curve**.
 
+---
+### Defining Preferred Space Locations
+You can specify the locations of the spaces inside your boundary.
+
+
 Check out a short video on how to insert **preferred locations for spaces** in Grasshopper and sync it with a Termite session:
 
 <iframe width="560" height="315"
@@ -49,6 +59,9 @@ Check out a short video on how to insert **preferred locations for spaces** in G
 </iframe>
 
 
+---
+### Defining Fixed Spaces
+You can define the shape of some spaces in a layout by defining them as **fixed spaces**.
 
 Check out a short video on how to insert **fixed spaces** in Grasshopper and sync it with a Termite session:
 

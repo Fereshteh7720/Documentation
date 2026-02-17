@@ -15,7 +15,7 @@ Check out a short video on how to **generate a layout** in Rhino synced with a T
   allowfullscreen>
 </iframe>
 
-
+---
 ## Exploring Design Variations
 - Update the **Rhino inputs**
 - Submit the **changes**
@@ -31,11 +31,12 @@ Check out a short video on how to **update a layout** in Rhino synced with a Ter
   allowfullscreen>
 </iframe>
 
+---
 ## Next Steps in Generating a Layout
 The next steps in generating layouts including **adding walls**, **adding doors**, and **adding windows** should be completed through the **Termite dashboard** by selecting each of the generated layouts.
 
 
-## Adding/Trimming Walls
+### Adding/Trimming Walls
 - Open the **Modification** tab
 - Navigate to  **Drafting**
 - Turn on **walls**
@@ -54,8 +55,8 @@ Check out a short video on how to **add or trim walls** in the Termite dashboard
 </iframe>
 
 
-
-## Adding/Removing Doors
+---
+### Adding/Removing Doors
 - Open the **Drafting** tab
 - Navigate to  **Doors**
 - Click on **Start drawing**
@@ -71,8 +72,8 @@ Check out a short video on how to **add or remove doors** in the Termite dashboa
   allowfullscreen>
 </iframe>
 
-
-## Adding/Removing Windows
+---
+### Adding/Removing Windows
 - Open the **Drafting** tab
 - Navigate to  **Windows**
 - Click on **Start drawing**
