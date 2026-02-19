@@ -56,7 +56,7 @@ Check out a short video on how to **add or trim walls** in the Termite dashboard
 </iframe>
 
 
-
+---
 ### Adding/Removing Doors
 - - Open **Termite dashboard**
 - Open the **Drafting** tab
@@ -74,7 +74,7 @@ Check out a short video on how to **add or remove doors** in the Termite dashboa
   allowfullscreen>
 </iframe>
 
-
+---
 ### Adding/Removing Windows
 - - Open **Termite dashboard**
 - Open the **Drafting** tab

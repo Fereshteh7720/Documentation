@@ -5,15 +5,17 @@
 - Navigate to the **Design** tab
 - Click on **generate layout**
 
-Check out a short video on how to **generate a layout** in Rhino synced with a Termite session:
+Check out a short video on how to **generate a layout** in Revit synced with a Termite session:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
+  src="https://www.youtube-nocookie.com/embed/5oYaaKEixcE"
   title="Generating a layout in the Termite dashboard synced with Revit"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+
 
 ---
 ## Exploring Design Variations
@@ -24,12 +26,14 @@ Check out a short video on how to **generate a layout** in Rhino synced with a T
 Check out a short video on how to **update a layout** in Revit synced with a Termite session:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
+  src="https://www.youtube-nocookie.com/embed/-TomERUGRJE"
   title="Updating the Revit inputs & regenerate a layout"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>
+
+
 
 ---
 ## Next Steps in Generating a Layout
@@ -47,7 +51,7 @@ The next steps in generating layouts including **adding walls**, **adding doors*
 Check out a short video on how to **add or trim walls** in the Termite dashboard:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
+  src="https://www.youtube-nocookie.com/embed/mjPUQOhGNuQ"
   title="Generating a layout in Termite- Adding or trimming walls"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -65,7 +69,7 @@ Check out a short video on how to **add or trim walls** in the Termite dashboard
 Check out a short video on how to **add or remove doors** in the Termite dashboard:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
+  src="https://www.youtube-nocookie.com/embed/pIKoukzId5k"
   title="Generating a layout in Termite- Adding doors"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -82,7 +86,7 @@ Check out a short video on how to **add or remove doors** in the Termite dashboa
 Check out a short video on how to **add or remove windows** in the Termite dashboard:
 
 <iframe width="560" height="315"
-  src="https://www.youtube-nocookie.com/embed/"
+  src="https://www.youtube-nocookie.com/embed/UecBwAQoSCs"
   title="Generating a layout in Termite- Adding windows"
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
