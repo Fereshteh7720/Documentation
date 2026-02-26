@@ -1,5 +1,6 @@
 # What is Termite?
 
+
 **Termite** is an AI-powered design assistant that helps architects during the **early design phase** by generating standard architectural plans through an interactive interface.
 
 Termite synchronizes with local CAD software to read geometries and design constraints, allowing architects to explore layout variations while staying connected to their existing design tools and workflows.
