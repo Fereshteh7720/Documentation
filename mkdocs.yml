@@ -2,6 +2,7 @@ site_name: Termite Docs
 site_url: https://fereshteh7720.github.io/Documentation/
 
 nav:
+  - index.md
   - Welcome to Termite: welcome.md
   - Create a Session: sessions.md
   - Integrate with CAD:
@@ -37,6 +38,7 @@ theme:
     text: Inter
     code: JetBrains Mono
   name: material
+  favicon: assets/favicon.png
   features:
     - navigation.indexes
 
